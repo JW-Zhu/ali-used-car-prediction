@@ -1,0 +1,19 @@
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter Notebook 临时文件
+.ipynb_checkpoints/
+
+# 数据文件（不上传大数据）
+data/
+*.csv
+
+# 虚拟环境（如果有）
+venv/
+.env/
+
+# 系统文件（Windows / macOS）
+.DS_Store
+Thumbs.db
