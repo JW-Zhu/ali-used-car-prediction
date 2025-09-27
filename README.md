@@ -30,7 +30,7 @@
 ---
 
 ## 📂 项目结构
-
+```
 car/
 ├── data/ # 数据目录（未上传）
 ├── notebooks/ # Jupyter 笔记本
@@ -41,7 +41,7 @@ car/
 ├── main.ipynb # 主流程 Notebook
 ├── requirements.txt # 依赖文件
 └── README.md # 项目说明
-
+```
 ## 项目模型
 本项目最终采用 深度学习神经网络 + 注意力机制 (Attention) 进行预测建模。
 
